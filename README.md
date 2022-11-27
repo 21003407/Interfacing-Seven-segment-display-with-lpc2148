@@ -1,10 +1,10 @@
 # Interfacing-Seven-segment-display-with-lpc2148
 
-Name: Bairav Skandan Loha
+Name: A JOANS JAY AUTHERS
 
 
 
-Roll no: 212221230010
+Roll no: 212221240019
 
 
 Date of experiment: 17-11-2022
